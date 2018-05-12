@@ -1,0 +1,37 @@
+_repo: Essays-on-God-and-Freud_30154
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Sam
+    - Vaknin, Shmuel
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: ''
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30154'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'God'
+- !lcc 'BF'
+- !lcsh 'Psychoanalysis'
+- !lcc 'BL'
+- !lcsh 'Religion'
+- !lcsh 'Freud, Sigmund, 1856-1939'
+title: Essays on God and Freud
+url: http://www.gutenberg.org/ebooks/30154
